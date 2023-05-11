@@ -10,7 +10,7 @@ led blinking with switch
 
 # day 3
 
-And gate
+##And gate
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2010-43-12.png)
 
