@@ -12,4 +12,4 @@ led blinking with switch
 
 And gate
 
-![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/Screenshot%20from%202023-05-11%2010-38-43.png)
+![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2010-43-12.png)
