@@ -29,7 +29,7 @@ main()
 printf("hi");
 }
 ```
-[adhith](https://github.com/Adhithkjayadas)
+[Adhith](https://github.com/Adhithkjayadas)
 
 
 # day 2
