@@ -31,6 +31,10 @@ printf("hi");
 ```
 [ADHITH K JAYADAS](https://github.com/Adhithkjayadas)
 
+## PHOTO
+
+![alt text](https://github.com/Adhithkjayadas/Test/blob/main/Screenshot_2023-05-11-10-56-49-220_com.miui.gallery.jpg)
+
 
 # day 2
 
