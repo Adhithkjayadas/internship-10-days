@@ -34,11 +34,11 @@ printf("hi");
 
 # day 2
 
-### led blinking without switch
+### Led blinking without switch
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-09%2012-14-35.png)
 
-### led blinking with switch
+### Led blinking with switch
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-09%2012-23-38.png)
 
@@ -52,7 +52,7 @@ printf("hi");
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2011-13-21.png)
 
-### dencing led program
+### Dencing led program
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2012-53-44.png)
 
