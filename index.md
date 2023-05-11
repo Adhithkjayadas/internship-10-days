@@ -17,3 +17,8 @@
 ### Ardunino blink
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2011-13-21.png)
+
+### dencing led program
+
+![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2012-53-44.png)
+
