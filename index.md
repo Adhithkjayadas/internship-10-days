@@ -12,11 +12,7 @@
 3. create a new file
 4. change repository name of ("ilogic.c")
 
-- First item
-- Second item
-- Third item 	
-
-`code` code
+ 	`code` code
 
 --- Horizontal Rule 	
 
@@ -38,6 +34,10 @@ printf("hi");
 
 # day 2
 
+- open tinkercad software
+- open new simulation folder
+- creat an a led simulation circuit without switch and with switch
+
 ### Led blinking without switch
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-09%2012-14-35.png)
@@ -47,6 +47,10 @@ printf("hi");
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-09%2012-23-38.png)
 
 # day 3
+
+- open tinkercad software
+- open new simulation folder
+- creat an a AND gate circute for op-amp using AND gate ic 7408
 
 ### And gate
 
