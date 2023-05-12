@@ -1,16 +1,16 @@
 # 10 days internship
-## 10 days internship
 
-# day 1
+## day 1
 
 *Intalicized text*
 **bold text**
 
 > blockquote
 
-1. First item
-2. Second item
-3. Third item
+1. open github.
+2. create github acc
+3. create a new file
+4. change repository name of ("ilogic.c")
 
 - First item
 - Second item
