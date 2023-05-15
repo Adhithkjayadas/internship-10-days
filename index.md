@@ -1,6 +1,6 @@
 # 10 days internship
 
-## day 1
+## Day 1
 
 *Intalicized text*
 **bold text**
@@ -32,7 +32,7 @@ printf("hi");
 ![alt text](https://github.com/Adhithkjayadas/Test/blob/main/Screenshot_2023-05-11-10-56-49-220_com.miui.gallery.jpg)
 
 
-# day 2
+# Day 2
 
 - open tinkercad software
 - open new simulation folder
@@ -46,7 +46,7 @@ printf("hi");
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-09%2012-23-38.png)
 
-# day 3
+# Day 3
 
 - open tinkercad software
 - open new simulation folder
@@ -63,4 +63,15 @@ printf("hi");
 ### Dencing led program
 
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-11%2012-53-44.png)
+
+# Day
+
+
+
+
+# Day 4
+
+### potentiometer using ardunio
+
+![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-15%2014-28-51.png)
 
