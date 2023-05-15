@@ -73,5 +73,19 @@ printf("hi");
 
 ### potentiometer using ardunio
 
-![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-15%2014-28-51.png)
+![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-15%2014-28-51.png) 
+
+## > program
+
+const int potPin = A0;
+
+void setup() {
+  Serial.begin(9600); 
+}
+
+void loop() {
+  int potvalue = analogRead(potPin);
+    Serial .println(potvalue);
+      delay(100);
+}
 
