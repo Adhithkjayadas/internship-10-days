@@ -96,7 +96,7 @@ void loop() {
 
 PROGRAM
 
-void setup()
+``` void setup()
 {UT);
  
 
