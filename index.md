@@ -69,7 +69,7 @@ printf("hi");
 
 
 
-# Day 5
+# Day 4
 
 ### potentiometer using ardunio
 
@@ -89,7 +89,7 @@ void loop() {
       delay(100);
 }
 
-# Day 6
+# Day 5
 
 ### SEGMET COUNTER PROGRAM
 ![no loading](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-16%2009-12-37.png)
@@ -195,7 +195,7 @@ void loop()
  
  }
  ```
- ### DAY-4
+ ### DAY-6
 
 > introduction to AI & ML
 1. Introduced a programming platform named as (Blockly) ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
