@@ -192,14 +192,23 @@ void loop()
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   delay(250);
-  
-  
-  
-  
-  
  
+ }
  
-}
+ ``` > introduction to AI & ML
+1. Introduced a programming platform named as (Blockly) 
+2. The platform like Blockly are mostly used by  fresher's in programming
+3. It's like a game 
+4. The blockly helps to know about the programming easly
+5. To create a multifunction program like a calculator ![image](
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+ 
+
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
+
 
 
 
