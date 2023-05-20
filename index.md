@@ -199,7 +199,7 @@ void loop()
  
 
  ``` 
- ### DAY-6
+ # DAY-6
 
 > introduction to AI & ML
 1. Introduced a programming platform named as (Blockly) ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
@@ -215,7 +215,7 @@ void loop()
 2. Can program th board by nucleo software
 3. it can build a sound detecting device by using microphone sensor 
 
-### Day 7
+# Day 7
 
 # > Introducing drones by NAVANEETH 3rd year student of robotics
 
@@ -257,7 +257,7 @@ void loop() {
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
-#Day 10
+# Day 10
 > tokem display system
 ![image](https://github.com/Adhithkjayadas/internship-10-days/blob/main/image/Screenshot%20from%202023-05-20%2012-26-58.png)
 > program
