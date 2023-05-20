@@ -217,6 +217,48 @@ void loop()
 
 
 
+# > Introducing drones by NAVANEETH 3rd year student of robotics
+
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%202023-05-16%20at%2009-28-33%20mission%20planner%20-%20Google%20Search.png)
+> Analog reader potentiometer
+5. [tinker the circuit](https://www.tinkercad.com/things/dFZMDWtXe0k-pot-with-arduino/editel)
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-15%2014-28-50.png)
+2. related program shown in below
+
+**program**
+```
+const int potpin=A0;
+
+void setup() {
+   Serial.begin(9600);
+}
+void loop() {
+  int potValue =analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+}
+```
+# Day-7
+ > Basics of 3D printing conducted by 3rd year student robotics
+1. first introduced of the 3d printing
+2. creating  models by the tinkercad 3D modeling
+3. start with basic shapes
+4. also cover the previous design's
+5. created a base and top cover for the flower bottel by using [Tinkercad](https://www.tinkercad.com/)
+6. then introduced the 3D printer 
+7. also printed a design (duration 19 min)
+8. 
+# Day-8
+> Introduced the yaskawa arm robot
+1. The introduction of yaskawa AR1440 
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
+> Then introduced about the EV (electric vehicle)
+
+
+
 
 
 
